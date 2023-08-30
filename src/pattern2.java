@@ -1,7 +1,10 @@
 public class pattern2
 {
-    public static void (String [] args)
+    public static void main (String [] args)
     {
-        System.out.println("this is my work we are going to start");
+        System.out.println("*");
+        System.out.println("*");
+        System.out.println("*");
+        System.out.println("*");
     }
 }
